@@ -1,0 +1,421 @@
+Initializing Jarvis
+Voice:
+ID: afrikaans
+Name: afrikaans
+Age: None
+Gender: male
+Languages Known: [b'\x05af']
+Voice:
+ID: aragonese
+Name: aragonese
+Age: None
+Gender: male
+Languages Known: [b'\x05an']
+Voice:
+ID: bulgarian
+Name: bulgarian
+Age: None
+Gender: None
+Languages Known: [b'\x05bg']
+Voice:
+ID: bosnian
+Name: bosnian
+Age: None
+Gender: male
+Languages Known: [b'\x05bs']
+Voice:
+ID: catalan
+Name: catalan
+Age: None
+Gender: male
+Languages Known: [b'\x05ca']
+Voice:
+ID: czech
+Name: czech
+Age: None
+Gender: male
+Languages Known: [b'\x05cs']
+Voice:
+ID: welsh
+Name: welsh
+Age: None
+Gender: male
+Languages Known: [b'\x05cy']
+Voice:
+ID: danish
+Name: danish
+Age: None
+Gender: male
+Languages Known: [b'\x05da']
+Voice:
+ID: german
+Name: german
+Age: None
+Gender: male
+Languages Known: [b'\x05de']
+Voice:
+ID: greek
+Name: greek
+Age: None
+Gender: male
+Languages Known: [b'\x05el']
+Voice:
+ID: default
+Name: default
+Age: None
+Gender: male
+Languages Known: [b'\x05en']
+Voice:
+ID: english
+Name: english
+Age: None
+Gender: male
+Languages Known: [b'\x02en-gb']
+Voice:
+ID: english
+Name: english
+Age: None
+Gender: male
+Languages Known: [b'\x02en-gb']
+Voice:
+ID: en-scottish
+Name: en-scottish
+Age: None
+Gender: male
+Languages Known: [b'\x05en-sc']
+Voice:
+ID: english-north
+Name: english-north
+Age: None
+Gender: male
+Languages Known: [b'\x05en-uk-north']
+Voice:
+ID: english_rp
+Name: english_rp
+Age: None
+Gender: male
+Languages Known: [b'\x05en-uk-rp']
+Voice:
+ID: english_wmids
+Name: english_wmids
+Age: None
+Gender: male
+Languages Known: [b'\x05en-uk-wmids']
+Voice:
+ID: english-us
+Name: english-us
+Age: None
+Gender: male
+Languages Known: [b'\x02en-us']
+Voice:
+ID: en-westindies
+Name: en-westindies
+Age: None
+Gender: male
+Languages Known: [b'\x05en-wi']
+Voice:
+ID: esperanto
+Name: esperanto
+Age: None
+Gender: male
+Languages Known: [b'\x05eo']
+Voice:
+ID: spanish
+Name: spanish
+Age: None
+Gender: male
+Languages Known: [b'\x05es']
+Voice:
+ID: spanish-latin-am
+Name: spanish-latin-am
+Age: None
+Gender: male
+Languages Known: [b'\x05es-la']
+Voice:
+ID: estonian
+Name: estonian
+Age: None
+Gender: None
+Languages Known: [b'\x05et']
+Voice:
+ID: persian
+Name: persian
+Age: None
+Gender: None
+Languages Known: [b'\x05fa']
+Voice:
+ID: persian-pinglish
+Name: persian-pinglish
+Age: None
+Gender: None
+Languages Known: [b'\x05fa-pin']
+Voice:
+ID: finnish
+Name: finnish
+Age: None
+Gender: male
+Languages Known: [b'\x05fi']
+Voice:
+ID: french-Belgium
+Name: french-Belgium
+Age: None
+Gender: male
+Languages Known: [b'\x05fr-be']
+Voice:
+ID: french
+Name: french
+Age: None
+Gender: male
+Languages Known: [b'\x05fr-fr']
+Voice:
+ID: irish-gaeilge
+Name: irish-gaeilge
+Age: None
+Gender: None
+Languages Known: [b'\x05ga']
+Voice:
+ID: greek-ancient
+Name: greek-ancient
+Age: None
+Gender: male
+Languages Known: [b'\x05grc']
+Voice:
+ID: hindi
+Name: hindi
+Age: None
+Gender: male
+Languages Known: [b'\x05hi']
+Voice:
+ID: croatian
+Name: croatian
+Age: None
+Gender: male
+Languages Known: [b'\x05hr']
+Voice:
+ID: hungarian
+Name: hungarian
+Age: None
+Gender: male
+Languages Known: [b'\x05hu']
+Voice:
+ID: armenian
+Name: armenian
+Age: None
+Gender: male
+Languages Known: [b'\x05hy']
+Voice:
+ID: armenian-west
+Name: armenian-west
+Age: None
+Gender: male
+Languages Known: [b'\x05hy-west']
+Voice:
+ID: indonesian
+Name: indonesian
+Age: None
+Gender: male
+Languages Known: [b'\x05id']
+Voice:
+ID: icelandic
+Name: icelandic
+Age: None
+Gender: male
+Languages Known: [b'\x05is']
+Voice:
+ID: italian
+Name: italian
+Age: None
+Gender: male
+Languages Known: [b'\x05it']
+Voice:
+ID: lojban
+Name: lojban
+Age: None
+Gender: None
+Languages Known: [b'\x05jbo']
+Voice:
+ID: georgian
+Name: georgian
+Age: None
+Gender: None
+Languages Known: [b'\x05ka']
+Voice:
+ID: kannada
+Name: kannada
+Age: None
+Gender: None
+Languages Known: [b'\x05kn']
+Voice:
+ID: kurdish
+Name: kurdish
+Age: None
+Gender: male
+Languages Known: [b'\x05ku']
+Voice:
+ID: latin
+Name: latin
+Age: None
+Gender: male
+Languages Known: [b'\x05la']
+Voice:
+ID: lingua_franca_nova
+Name: lingua_franca_nova
+Age: None
+Gender: male
+Languages Known: [b'\x05lfn']
+Voice:
+ID: lithuanian
+Name: lithuanian
+Age: None
+Gender: male
+Languages Known: [b'\x05lt']
+Voice:
+ID: latvian
+Name: latvian
+Age: None
+Gender: male
+Languages Known: [b'\x05lv']
+Voice:
+ID: macedonian
+Name: macedonian
+Age: None
+Gender: male
+Languages Known: [b'\x05mk']
+Voice:
+ID: malayalam
+Name: malayalam
+Age: None
+Gender: male
+Languages Known: [b'\x05ml']
+Voice:
+ID: malay
+Name: malay
+Age: None
+Gender: male
+Languages Known: [b'\x05ms']
+Voice:
+ID: nepali
+Name: nepali
+Age: None
+Gender: male
+Languages Known: [b'\x05ne']
+Voice:
+ID: dutch
+Name: dutch
+Age: None
+Gender: male
+Languages Known: [b'\x05nl']
+Voice:
+ID: norwegian
+Name: norwegian
+Age: None
+Gender: male
+Languages Known: [b'\x05no']
+Voice:
+ID: punjabi
+Name: punjabi
+Age: None
+Gender: None
+Languages Known: [b'\x05pa']
+Voice:
+ID: polish
+Name: polish
+Age: None
+Gender: male
+Languages Known: [b'\x05pl']
+Voice:
+ID: brazil
+Name: brazil
+Age: None
+Gender: male
+Languages Known: [b'\x05pt-br']
+Voice:
+ID: portugal
+Name: portugal
+Age: None
+Gender: male
+Languages Known: [b'\x05pt-pt']
+Voice:
+ID: romanian
+Name: romanian
+Age: None
+Gender: male
+Languages Known: [b'\x05ro']
+Voice:
+ID: russian
+Name: russian
+Age: None
+Gender: male
+Languages Known: [b'\x05ru']
+Voice:
+ID: slovak
+Name: slovak
+Age: None
+Gender: male
+Languages Known: [b'\x05sk']
+Voice:
+ID: albanian
+Name: albanian
+Age: None
+Gender: male
+Languages Known: [b'\x05sq']
+Voice:
+ID: serbian
+Name: serbian
+Age: None
+Gender: male
+Languages Known: [b'\x05sr']
+Voice:
+ID: swedish
+Name: swedish
+Age: None
+Gender: male
+Languages Known: [b'\x05sv']
+Voice:
+ID: swahili-test
+Name: swahili-test
+Age: None
+Gender: male
+Languages Known: [b'\x05sw']
+Voice:
+ID: tamil
+Name: tamil
+Age: None
+Gender: male
+Languages Known: [b'\x05ta']
+Voice:
+ID: turkish
+Name: turkish
+Age: None
+Gender: male
+Languages Known: [b'\x05tr']
+Voice:
+ID: vietnam
+Name: vietnam
+Age: None
+Gender: male
+Languages Known: [b'\x05vi']
+Voice:
+ID: vietnam_hue
+Name: vietnam_hue
+Age: None
+Gender: male
+Languages Known: [b'\x05vi-hue']
+Voice:
+ID: vietnam_sgn
+Name: vietnam_sgn
+Age: None
+Gender: male
+Languages Known: [b'\x05vi-sgn']
+Voice:
+ID: Mandarin
+Name: Mandarin
+Age: None
+Gender: male
+Languages Known: [b'\x05zh']
+Voice:
+ID: cantonese
+Name: cantonese
+Age: None
+Gender: male
+Languages Known: [b'\x05zh-yue']
