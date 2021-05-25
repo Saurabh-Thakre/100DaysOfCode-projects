@@ -84,12 +84,12 @@ if __name__== "__main__":
             webbrowser.open('stackoverflow.com')
 
         elif 'play music' in query:
-            music_dir = '/home/sthakre/Desktop/py/100daysofcode/Naruto/songs'
+            music_dir = '/home/sthakre/Desktop/py/100daysofcode/Jarvis/songs'
             songs = os.listdir(music_dir)
             print(songs)
             # os.startfile(os.path.join(music_dir, songs[0]))  
             # opener = "songs" if sys.platform == "darwin" else "xdg-open"      
-            webbrowser.open("/home/sthakre/Desktop/py/100daysofcode/Naruto/songs/Dance_Monkey.mp3")      
+            webbrowser.open("/home/sthakre/Desktop/py/100daysofcode/Jarvis/songs/Dance_Monkey.mp3")      
 
         elif 'the time' in query:
             strTime = datetime.datetime.now().strftime("%H hours %M minutes %S seconds")
@@ -100,7 +100,7 @@ if __name__== "__main__":
             mode = 666
             # flags
             flags = os.O_RDWR | os.O_CREAT
-            codePath = "/home/sthakre/Desktop/py/100daysofcode/Naruto/songs/code"
+            codePath = "/home/sthakre/Desktop/py/100daysofcode/Jarvis/songs/code"
             os.open(codePath, flags, mode) 
         elif 'bye jarvis' in query:
             exit()
