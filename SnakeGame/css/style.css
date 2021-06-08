@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.body{
+
+    background: url(../img/bg.jpg);
+    min-height: 100vh;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#board{
+
+    background: linear-gradient(rgb(82, 241, 241), rgb(207, 156, 199));
+    width: 90vmin;
+    height: 92vmin;
+    border: 2px solid black;
+    display: grid;
+    grid-template-rows: repeat(18, 1fr);
+    grid-template-columns: repeat(18, 1fr);
+
+ }
+
+ #scoreCount{
+    position: absolute;
+    color: tomato;
+    bottom: 0px;
+    right: 1100px;
+    font-size: 39px;
+    font-weight: bold;
+    font-family: 'ZCOOL KuaiLe', cursive;
+
+ }
+
+ #highScore{
+   position: absolute;
+   color: rgb(253, 19, 19);
+   bottom: 0px;
+   right: 450px;
+   font-size: 39px;
+   font-weight: bold;
+   font-family: 'ZCOOL KuaiLe', cursive;
+
+}
+
+ .head{
+
+    background: linear-gradient(rgb(214, 110, 197), rgb(58, 144, 202));
+    border: .25vmin solid pink;
+    border-radius: 8px;
+    transform: scale(1.0)
+ }
+
+ .snake{
+     
+    background: linear-gradient(rgb(209, 49, 49), green);
+    border: .25vmin solid white;
+    border-radius: 12px;
+
+
+ }
+
+ .food{
+     
+    background: linear-gradient(orange, yellow);
+    border: .25vmin solid black;
+    border-radius: 8px;
+
+
+ }
